@@ -1,3 +1,0 @@
-this is the 3rd file
-
-Git is really usefull
